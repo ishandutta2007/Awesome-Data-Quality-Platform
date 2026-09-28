@@ -56,9 +56,9 @@
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated list of top open-source data quality tools, frameworks, and profiling engines, sorted by GitHub star count ⭐.
+Below is a curated list of top open-source data quality tools, frameworks, and profiling engines, sorted by GitHub Stars_Count ⭐.
 
-| Project 📦 | GitHub Stars 🌟 | License 📄 | Primary Use Case & Description 🎯 |
+| Project 📦 | GitHub_Stars 🌟 | License 📄 | Primary Use Case & Description 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[dbt Core / dbt tests](https://github.com/dbt-labs/dbt-core)** | [<img src="https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white" alt="dbt-core Stars"/>](https://github.com/dbt-labs/dbt-core/stargazers) | Apache-2.0 | Built-in and custom SQL test assertions (uniqueness, referential integrity, null checks) inside analytics transformation pipelines. |
 | **[Great Expectations (GX Core)](https://github.com/great-expectations/great_expectations)** | [<img src="https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white" alt="GX Stars"/>](https://github.com/great-expectations/great_expectations/stargazers) | Apache-2.0 | The leading Python data validation framework—expressive Expectations, automated Data Docs HTML reports, and data profiling. |
@@ -114,5 +114,5 @@ Thank you for supporting open-source data reliability! ❤️
 ## ⚠️ Disclaimer
 
 - This is a **community-curated** resource list for educational and benchmark purposes.
-- Company valuations, revenue estimations, pricing, and GitHub star counts reflect public records as of 2026.
+- Company valuations, revenue estimations, pricing, and GitHub Stars_Counts reflect public records as of 2026.
 - Product logos and brand names belong to their respective owners.
