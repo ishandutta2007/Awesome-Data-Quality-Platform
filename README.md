@@ -1,6 +1,6 @@
 # Awesome-Data-Quality-Platform
 
-# Top Data Quality Platforms Ecosystem
+## Top Data Quality Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Data Validation, Anomaly Detection, Observability, Profiling, Cleansing, Contracts & Pipeline Quality Gates*
 **Last updated: September 2026**
